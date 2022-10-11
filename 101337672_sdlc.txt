@@ -1,0 +1,7 @@
+One of the most important ascpects for a DevOps Engineer is to 
+be able to continuesly build and test. In software development 
+cycle, it is important to be able to store your code in GIT. 
+Then taking code from different repositories and combining 
+them to build the complete application in GitHub requires understanding 
+of how the enviroement works. 
+

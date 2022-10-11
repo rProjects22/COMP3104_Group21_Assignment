@@ -1,0 +1,4 @@
+COMP3104 DevOps course impiments how DevOps culture brings the idea 
+of working quickly with high-demanding environments. In other words, 
+DevOps adopters deploy small updates, upgrades or bug fixes so much 
+faster with higher ates of reliabiltiy. 
