@@ -1,0 +1,10 @@
+SDLC stands for Software Development Life Cycle.
+The software produces the highest quality with a small cost in the shortest time possible.
+SDLC focuses on the six phases which are:
+ 1. Requirement Analysis
+ 2. Planning
+ 3. Software Design
+ 4. Software Development
+ 5. Testing
+ 6. Deployment
+ 
