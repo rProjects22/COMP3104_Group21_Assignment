@@ -7,4 +7,5 @@ initializing Git, Introduction and Configuration of GitHub Actions, and
 creating single page applications. When we look through few of the topics 
 this course guides towards, one of the topics about Microservices explains 
 the importance of pplication containerization and horizontal vs. vertical 
-scaling. 
+scaling. This course is a 15 weeks long and includes many hands on explainations 
+about DevOps implimentations. 
