@@ -1,3 +1,6 @@
+The lack of collaboration between Developers and Operation Engineers slowed down the development process and releases. 
+Software companies had begun to realize the need for better collaboration.
+This gave birth to the DevOps approach; better collaboration between teams and faster delivery of software.
 One of the most important ascpects for a DevOps Engineer is to 
 be able to continuesly build and test. In software development 
 cycle, it is important to be able to store your code in GIT. 
