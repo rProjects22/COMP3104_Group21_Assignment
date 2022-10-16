@@ -4,4 +4,7 @@ this course impliments how DevOps adopters deploy small updates,
 upgrades or bug fixes so much faster with higher ates of reliabiltiy.
 This course also provides hands on practices for the topics such as 
 initializing Git, Introduction and Configuration of GitHub Actions, and 
-creating single page applications.  
+creating single page applications. When we look through few of the topics 
+this course guides towards, one of the topics about Microservices explains 
+the importance of pplication containerization and horizontal vs. vertical 
+scaling. 
