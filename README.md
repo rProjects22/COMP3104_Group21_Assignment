@@ -1,8 +1,7 @@
-#### COMP3104_Group24_Assignment 
+#### COMP3104_Group21_Assignment 
 
+- Student Member IDs: Group Member IDs: 101334946, 101337672, 101190436.
 - Readme.md file added. 
 - GitHub Action CI/CD added.
-- 101337672_gb.txt file added. 
-- 101337672_devops.txt file added. 
-- 101337672_sdlc.txt file added. 
+
 
