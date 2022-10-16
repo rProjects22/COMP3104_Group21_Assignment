@@ -1,4 +1,7 @@
 COMP3104 DevOps course impiments how DevOps culture brings the idea 
 of working quickly with high-demanding environments. In other words, 
-DevOps adopters deploy small updates, upgrades or bug fixes so much 
-faster with higher ates of reliabiltiy. 
+this course impliments how DevOps adopters deploy small updates, 
+upgrades or bug fixes so much faster with higher ates of reliabiltiy.
+This course also provides hands on practices for the topics such as 
+initializing Git, Introduction and Configuration of GitHub Actions, and 
+creating single page applications.  
