@@ -3,5 +3,7 @@ be able to continuesly build and test. In software development
 cycle, it is important to be able to store your code in GIT. 
 Then taking code from different repositories and combining 
 them to build the complete application in GitHub requires understanding 
-of how the enviroement works. 
+of how the enviroement works. Besides Devops helps on Improving speed and 
+stability of Software Development and Deployment, and ensuring that the product 
+or service is available to end users everytime. 
 
