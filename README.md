@@ -1,7 +1,5 @@
 #### COMP3104_Group21_Assignment 
-Team Members:
--- Joyce  Ashley Borla - 101190436 - JoyceAshley.Borla@georgebrown.ca .
-
--- Arghawan Ghulam Siddiq - 101334946 - Arghawan.ghulamsiddiq@georgebrown.ca .
-
--- Mehlika Tozlu - 101337672 - Mahlika.Tozlu@georgebrown.ca .
+101337672_devops.txt file added and commited - 101190436, Joyce
+101337672_gb.txt file added and commited - 101190436, Joyce
+101337672_sdlc.txt file added and commited - 101190436, Joyce
+README.md file added and commited 
