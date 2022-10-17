@@ -1,0 +1,7 @@
+101334946-devop content added
+Teacher's name: Pritesh Pate
+Course Code: COMP 3104
+Academic Year: 2022-2023
+Term: Fall
+The course consists of 8 quizzes, 8 labs, 2 assignments, midterms, and finals.
+
