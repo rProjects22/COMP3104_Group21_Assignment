@@ -1,0 +1,10 @@
+SDLC
+---------------------
+SDLC also known as Software Development Life Cycle. This process consist of 7 phases which is Requirement Analysis, Feasibility Study,
+Design, Coding, Testing, Install/Deploy, and Maintenance. This process helps us develop a high quality software by making our work cycle 
+efficient. Its important for DevOps engineer to follow the SDLC as it acts as a guide on how to tackle the project, helps in scheduling 
+deliverables, and making sure that clients receive their product in a timely fashion.
+
+
+Learning devops helps reducing the time cycles of development.
+It innovates faster
