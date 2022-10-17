@@ -8,3 +8,5 @@ deliverables, and making sure that clients receive their product in a timely fas
 
 Learning devops helps reducing the time cycles of development.
 It innovates faster.
+Link:
+https://phoenixnap.com/blog/software-development-life-cycle
